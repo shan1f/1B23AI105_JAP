@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=55250" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\string\out\production\string StringBufferHandling
+CAPACITY OF STRINGBUFFER object sb1:
+CAPACITY OF STRINGBUFFER object sb2:21
+ENTER A STRING:
+heel
+Reversed string in uppercase:LEEH
+Enter a string to append :hi
+String after appending:leehhi
+Process finished with exit code 0
